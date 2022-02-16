@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @d1i1m1o1n
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning react
